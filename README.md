@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @aniruddhadasaurgha. 
-I am a beginner in programming 
+- 👋 Hi, I am *Aniruddha Das Aurgha*, a beginner programmer from Bangladesh.
 
 <!---
 aniruddhadasaurgha/aniruddhadasaurgha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
