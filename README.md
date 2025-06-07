@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aniruddhadasaurgha
+- 👋 Hi, I’m @aniruddhadasaurgha. 
 I am a beginner in programming 
 
 <!---
