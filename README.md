@@ -1,4 +1,4 @@
-- 👋 Hi, I am #Aniruddha Das Aurgha , a beginner programmer from Bangladesh.
+- 👋 Hi, I am **Aniruddha Das Aurgha** , a beginner programmer from Bangladesh.
 -  I read in class 9, and I like to do programming.
 -  Aviation and its topics really attract me a lot.
 -  Besides this, I am also quite interested in Mathematics, Physics, Chemistry, ICT and some other things.
