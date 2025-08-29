@@ -5,7 +5,7 @@
 -  I have first started my coding journey with Python, which was included in my school curriculum.
 -  In recent times I have started learning about HTML, CSS and Javascript.
 -  Wish me a good luck in my journey!
--  Hi 👋, I'm Nivil Kazi Hasan
+-  
 
 <!---
 aniruddhadasaurgha/aniruddhadasaurgha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
